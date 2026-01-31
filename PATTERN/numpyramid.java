@@ -1,4 +1,3 @@
-package PATTERN;
 import java.util.*;
 
 
